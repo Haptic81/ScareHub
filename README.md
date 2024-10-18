@@ -1,0 +1,2 @@
+# ScareHub
+An Scaring Hub
